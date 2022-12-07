@@ -1,0 +1,2 @@
+import s 
+s.swajon()
